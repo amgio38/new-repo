@@ -1,0 +1,19 @@
+{
+  "name": "tmp2",
+  "version": "1.0.0",
+  "description": "git tmp2 TEST",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amgio38/tmp2.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JOBY",
+  "license": "ISC",
+  "dependencies": {
+    "iquery": "0.0.2",
+    "jquery": "^3.5.1"
+  }
+}
